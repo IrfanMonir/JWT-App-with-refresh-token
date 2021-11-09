@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iiCOgZEuxQczJA7hcjscGfe1lljCGqzQ46gctxqP6pKj7JcdhK1OApxtSH5kfx8gQXd/rSD2gAuXDdFfWBVS2w==",
+  "dgSpecHash": "Z9+7OU2OyDLDDqvfO/vQPguVt8UykbSjGL5UbV3vl9gTrejxLk5lrkSeYRcb1jX2APSb7s+j3+UfNRFpat3GlQ==",
   "success": true,
-  "projectFilePath": "G:\\Jobs or works\\S3Innovate\\StudentRegistration\\Api\\StudentRegistration\\StudentRegistration.Model\\StudentRegistration.Model.csproj",
+  "projectFilePath": "D:\\JWT Project\\Api\\StudentRegistration\\StudentRegistration.Model\\StudentRegistration.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

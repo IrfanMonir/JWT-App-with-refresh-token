@@ -47,3 +47,20 @@ G:\Jobs or works\S3Innovate\StudentRegistration\Api\StudentRegistration\StudentR
 G:\Jobs or works\S3Innovate\StudentRegistration\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.dll
 G:\Jobs or works\S3Innovate\StudentRegistration\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\ref\StudentRegistration.DataAccess.dll
 G:\Jobs or works\S3Innovate\StudentRegistration\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.pdb
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.DataAccess.deps.json
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.DataAccess.dll
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\ref\StudentRegistration.DataAccess.dll
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.DataAccess.pdb
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.Model.dll
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.Utility.dll
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.Model.pdb
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\bin\Debug\net5.0\StudentRegistration.Utility.pdb
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.csproj.AssemblyReference.cache
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.AssemblyInfoInputs.cache
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.AssemblyInfo.cs
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.csproj.CoreCompileInputs.cache
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.csproj.CopyComplete
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.dll
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\ref\StudentRegistration.DataAccess.dll
+D:\JWT Project\Api\StudentRegistration\StudentRegistration.DataAccess\obj\Debug\net5.0\StudentRegistration.DataAccess.pdb
